@@ -1,0 +1,10 @@
+D:\common_analysis\code\readChart\readChart\bin\Debug\readChart.exe.config
+D:\common_analysis\code\readChart\readChart\bin\Debug\readChart.exe
+D:\common_analysis\code\readChart\readChart\bin\Debug\readChart.pdb
+D:\common_analysis\code\readChart\readChart\bin\Debug\DocumentFormat.OpenXml.dll
+D:\common_analysis\code\readChart\readChart\bin\Debug\DocumentFormat.OpenXml.xml
+D:\common_analysis\code\readChart\readChart\obj\Debug\readChart.csprojAssemblyReference.cache
+D:\common_analysis\code\readChart\readChart\obj\Debug\readChart.csproj.CoreCompileInputs.cache
+D:\common_analysis\code\readChart\readChart\obj\Debug\readChart.csproj.CopyComplete
+D:\common_analysis\code\readChart\readChart\obj\Debug\readChart.exe
+D:\common_analysis\code\readChart\readChart\obj\Debug\readChart.pdb
